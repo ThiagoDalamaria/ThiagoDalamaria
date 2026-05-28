@@ -48,7 +48,7 @@ Ao longo da minha trajetória desenvolvi competências em resolução de problem
 
 ---
 ### 📫 Contato  
-- 💼 [LinkedIn](www.linkedin.com/in/thiago-dias-dalamaria-4176571a2): Thiago Dias Dalamaria
+- 💼 [LinkedIn](www.linkedin.com/in/thiago-dias-4176571a2): Thiago Dias Dalamaria
 - ✉️ Email: thiagodiasdalamaria@gmail.com  
 - 🐙 [GitHub](https://github.com/ThiagoDalamaria):
 
